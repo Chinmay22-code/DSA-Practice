@@ -2,3 +2,4 @@
 |---|---------|----------|------------|-------------|------|
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | LeetCode | Easy | 26 Mar 2026 | 12:16 pm |
 | 2 | [Remove loop in Linked List](https://www.geeksforgeeks.org/problems/remove-loop-in-linked-list/1?page=1&category=Linked%20List&sortBy=submissions) | GeeksForGeeks | Medium | 26 Mar 2026 | 02:25 pm |
+| 3 | [Sorted Linked List to BST](https://www.geeksforgeeks.org/problems/sorted-list-to-bst/1?page=6&category=Linked%20List&sortBy=difficulty) | GeeksForGeeks | Medium | 26 Mar 2026 | 02:35 pm |
